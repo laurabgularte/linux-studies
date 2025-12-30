@@ -1,5 +1,14 @@
+# ♾️ DevOps Studies
 
+Este repositório serve como o meu laboratório pessoal para práticas de devops, automação e infraestrutura. O foco aqui é aprender a criar ambientes e pipelines eficientes.
 
-iniciando os estudos/aprendendo mais sobre devops
+## 🛠️ Tecnologias em Estudo
+- **Linux & Shell Script:** Automação de tarefas no terminal.
+- **Containers:** Docker e Docker Compose.
+- **CI/CD:** GitHub Actions (automatização de testes e deploys).
+- **Cloud:** AWS, Azure e Google Cloud
 
-nesse repositório vou deixar pdfs, links de videos, entrevistas, roadmaps e demais coisas que possam ser uteis para os meus estudos
+## 📂 Organização do Repositório
+
+Organizado em pastas conforme eu for avançando nos estudos.
+
