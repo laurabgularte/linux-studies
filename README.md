@@ -1,14 +1,26 @@
 # ♾️ DevOps Studies
 
-Este repositório serve como o meu laboratório pessoal para práticas de devops, automação e infraestrutura. O foco aqui é aprender a criar ambientes e pipelines eficientes.
+![DevOps](https://img.shields.io/badge/DevOps-Learning-blueviolet?style=for-the-badge&logo=dev.to&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Progress-green?style=for-the-badge)
 
-## 🛠️ Tecnologias em Estudo
-- **Linux & Shell Script:** Automação de tarefas no terminal.
-- **Containers:** Docker e Docker Compose.
-- **CI/CD:** GitHub Actions (automatização de testes e deploys).
-- **Cloud:** AWS, Azure e Google Cloud
+This repository serves as my **personal laboratory** for DevOps practices, automation, and infrastructure. The main goal is to learn how to build efficient environments and pipelines.
 
-## 📂 Organização do Repositório
+---
 
-Organizado em pastas conforme eu for avançando nos estudos.
+## 🛠️ Technologies Under Study
+
+Here are the core technologies I am focusing on:
+
+* **🐧 Linux & Shell Script:** Task automation directly in the terminal.
+* **🐳 Containers:** Docker and Docker Compose for application isolation.
+* **🔄 CI/CD:** GitHub Actions (automating tests and deployments).
+* **☁️ Cloud:** AWS, Azure, and Google Cloud Platform.
+
+---
+
+## 📂 Repository Organization
+
+The project is structured into folders as I progress through my studies. Each directory contains specific exercises, configuration files, and documentation for each tool.
+
+
 
